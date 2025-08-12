@@ -1,0 +1,12 @@
+Caso de uso.
+
+O senhor José Almeida, precisa que sejá criado um card game de batalha com os seguintes requisitos:
+
+01 - 3 cards para cada jogador, sendo baseados em personagens da história mundial.
+02 - Estes cards deverão possuir pontos de defesa e ataque, onde o card de maior pontuação ganha do card de menor pontuação.
+03 - O jogardor que obter todos os cards de seu oponente ganhará o jogo.
+04 - Deverá ser desenvolvido um sistema para este card game, logo será necessário desenvolver as telas do sistema para aprovação do cliente e o diagrama de caso de uso.
+
+Ao finalizar, documentar o projeto em um arquivo DOC e anexar na tarefa.
+
+
